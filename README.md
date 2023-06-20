@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Hiesta
-- 👀 I’m interested in 3D Modeling/Python
-- 🌱 I’m currently learning 3D/Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested Python development, full-stack / backend
+- 🌱 I’m currently Python libraries, SQL, FastAPI, Django
+- 📫 How to reach me : prefer to use telegram @Laveyn000, or email "antoshka2003@bk.ru"
 
 <!---
 Hiesta/Hiesta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
