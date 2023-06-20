@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hiesta
-- 👀 I’m interested Python development, full-stack / backend
+- 👀 I’m interested in Python development, full-stack / backend occupation
 - 🌱 I’m currently Python libraries, SQL, FastAPI, Django
 - 📫 How to reach me : prefer to use telegram @Laveyn000, or email "antoshka2003@bk.ru"
 
