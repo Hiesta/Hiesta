@@ -1,6 +1,6 @@
 # Кулешов Антон Романович
 
-📍 г. Фрязино | 📞 Тел: 8 (925) 845-40-60 | ✉️ Email: anton@kuleshov.email  
+📍 г. Батуми | 📞 Тел: +7 (925) 845-40-60 | +995 557 67 79 88 | ✉️ Email: anton@kuleshov.email  
 GitHub: [https://github.com/Hiesta](https://github.com/Hiesta)  
 Дата рождения: 10 января 2003 (23 года)
 
