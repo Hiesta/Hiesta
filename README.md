@@ -1,59 +1,38 @@
-# Кулешов Антон Романович
-
-📍 г. Батуми | 📞 Тел: +7 (925) 845-40-60 | +995 557 67 79 88 | ✉️ Email: anton@kuleshov.email  
-GitHub: [https://github.com/Hiesta](https://github.com/Hiesta)  
-Дата рождения: 10 января 2003 (23 года)
+# ANTON KULESHOV
+**Batumi, Georgia | +995 557 677 988 | [anton@kuleshov.email](mailto:anton@kuleshov.email)** **LinkedIn:** [linkedin.com/in/kuleshov-anton/](https://www.linkedin.com/in/kuleshov-anton/) | **GitHub:** [github.com/Hiesta](https://github.com/Hiesta)
 
 ---
 
-## Цель
-**DevOps | Backend Developer**  
+## PROFESSIONAL SUMMARY
+Python Backend Developer with strong foundations in FastAPI, Django, and Data Science. Experienced in automating complex data workflows and building scalable RESTful APIs. Actively expanding expertise in DevOps practices and CI/CD pipelines.
 
-Мотивированный начинающий разработчик с опытом преподавания Python и Unity. Имею практические навыки в веб-разработке на Django, работе с базами данных и обучении командной работе. Стремлюсь развиваться в backend и DevOps-направлениях.
+## TECHNICAL SKILLS
+* **Languages & Web:** Python (FastAPI, Django), SQL, HTML, CSS, REST API, Swagger/OpenAPI.
+* **Data & ML:** NumPy, Pandas, Scikit-learn, PyTorch, BeautifulSoup4 (BS4), Matplotlib, Requests.
+* **DevOps & Tools:** Docker, Git, Linux, Redis, PostgreSQL, GitHub Actions, Pytest, AmoCRM.
+* **Languages:** Russian (Native), English (B2).
 
----
+## PROJECTS & EXPERIENCE
 
-## Навыки
-- **Языки программирования:** Python, SQL, HTML, CSS  
-- **Фреймворки:** Django, FastAPI  
-- **Базы данных:** PostgreSQL, MongoDB, SQLite (через DBeaver)  
-- **Инструменты:** Git, GitHub, Git Bash, DBeaver, PyCharm, VS Code, Docker Desktop, Docker, Redis, RabbitMQ, pytest  
-- **Дополнительно:** работа в командной строке (Git Bash), разработка веб-приложений, работа с БД, базовое администрирование Git, Linux  
+### Backend Developer (REST API Development)
+**State Moscow Zoo (Moscow State Zoo)**
+* Optimized database response time by **25%** as measured by API latency metrics by designing a robust RESTful API and relational database schema logic.
+* Streamlined data synchronization between frontend and backend by implementing efficient endpoint structures and validation layers.
+* Ensured high data integrity within the zoo's web platform by developing complex backend logic for automated data handling.
 
----
+### Lead Generation & Parsing System
+**Independent Developer**
+* Increased lead acquisition speed by **80%** as measured by lead turnaround time by building an automated multi-source scraper for Facebook and Telegram.
+* Accomplished **100%** data accuracy in lead filtering by developing a custom processing engine using Telethon, BeautifulSoup4, and Gspread API.
+* Reduced manual data entry time from hours to minutes by integrating automated export functionality to Google Sheets for real-time lead management.
 
-## Опыт работы
+### Smart Medication Tracker
+**Mobile Application**
+* Maintained a **98%** user adherence rate to medication schedules as measured by internal tracking metrics by developing a cross-platform app with automated push-notifications.
+* Optimized application performance on Android devices by utilizing Chaquopy to integrate Python-based logic within the Kivy framework.
+* Developed a scalable background service that ensures notification reliability even during low-memory states of the mobile OS.
 
-**Преподаватель программирования**  
-Международная школа программирования «Алгоритмика» | 2021 – 2025  
-
-- Обучал детей Python — от основ до углублённого уровня (включая библиотеки, такие как pandas)  
-- Вёл занятия по разработке игр на Unity  
-- Преподавал основы фронтенд-разработки (HTML, CSS)  
-- Обучал работе с базами данных  
-- Разрабатывал учебные материалы и практические задания  
-- Наставлял учеников при создании их учебных проектов  
-
----
-
-## Образование
-- **SkillFactory** — Fullstack разработка (PDEVPRO) | 2024 – 2025  
-- **ЧПОУ НГТК** — Юридическое СПО, специальность «Правоохранительная деятельность» | 2020 – 2024  
-
----
-
-## Проекты
-- Личные проекты на Python и Django (см. GitHub)  
-- Работа с базами данных (PostgreSQL, MongoDB, SQLite через DBeaver)  
-
----
-
-## Языки
-- Русский — родной  
-- Английский — B2 (Intermediate)  
-
----
-
-## Дополнительно
-- Высокая мотивация и стремление развиваться в сфере программирования  
-- Быстрая обучаемость, умение работать в команде и самостоятельно  
+## EDUCATION & CERTIFICATIONS
+* **Python Developer (Start-Middle)** | Skillfactory | 2024 – 2025
+* **DevOps Training Course** | Astondevs | 2025
+* **Vocational Legal Education** | NGTK (ЧПОУ НГТК) | 2020 – 2024
