@@ -1,7 +1,7 @@
 # ANTON KULESHOV
 **Date of birth:** 10 January 2003
 **Location:** Georgia, Batumi | **Phone:** +995 557 67 79 88 | **Email:** anton@kuleshov.email 
-**[LinkedIn](<LinkedIn link>)** | **[GitHub](<GitHub link>)**
+**[LinkedIn](https://www.linkedin.com/in/kuleshov-anton/)**
 
 ---
 
