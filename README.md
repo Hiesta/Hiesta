@@ -1,62 +1,66 @@
+
 # ANTON KULESHOV
-**Date of birth:** 10 January 2003
-**Location:** Georgia, Batumi | **Phone:** +995 557 67 79 88 | **Email:** anton@kuleshov.email 
-**[LinkedIn](https://www.linkedin.com/in/kuleshov-anton/)**
 
----
+**PYTHON BACKEND DEVELOPER / API & AUTOMATION ENGINEERING**
 
-## SUMMARY
-Python Backend Developer with strong foundations in FastAPI, Django, and Data Science. Experienced in automating data workflows and building scalable RESTful APIs. Actively deepening skills in DevOps and CI/CD pipelines.
+Batumi, Georgia | +995 557 677 988 | [anton@kuleshov.email](mailto:anton@kuleshov.email) | [github.com/Hiesta](https://github.com/Hiesta)
 
-* **Languages:** Russian (Native), English (B2)
+## PROFESSIONAL PROFILE
 
----
+Python backend developer working with FastAPI, Django, PostgreSQL, SQLAlchemy, REST APIs and automation pipelines. Background spans API design, data processing, third-party integrations, database modeling and production deployment. Sole developer of multiple commercial systems, including a B2B lead-generation platform that increased discovered cold leads ~5-6x and contributed to ~2.5x more completed deals.
 
-## TECHNICAL SKILLS
-* **Languages & Web:** Python (FastAPI, Django, SQLAlchemy), SQL, HTML, CSS, REST API, Swagger/OpenAPI, Celery.
-* **Data & ML:** NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow, BeautifulSoup4 (BS4), Matplotlib, Requests.
-* **DevOps & Tools:** Docker, Git, Linux (Ubuntu), Nginx, Redis, PostgreSQL, GitHub Actions, Pytest, Postman, Unity.
+## TECHNICAL STACK
 
----
+**Backend:** Python, FastAPI, Django, REST APIs, SQLAlchemy, PostgreSQL, Redis, SQL
 
-## EXPERIENCE
-### Backend & API Developer | Algoritmika
-*Nov 2021 — Apr 2026*
+**Async, scraping & integrations:** aiohttp, Requests, Playwright, Telethon, BeautifulSoup, Google Sheets API, Telegram Bot API
 
-* Developed and implemented a scalable backend architecture and RESTful APIs, improving internal service availability by 30%.
-* Designed and optimized relational databases, reducing query processing time by 40% through effective indexing and normalization.
-* Ensured seamless system operation and backend logic support, reducing critical failures under high-load conditions.
+**Testing & infrastructure:** Pytest, Docker, Git, Linux, Nginx, GitHub Actions, HTTP, JSON, YAML, XML
 
----
+**Data & supplementary:** Pandas, NumPy, OpenCV, EasyOCR, Tesseract, Pillow; JavaScript, HTML/CSS, PHP
 
-## PROJECTS
-### Backend Developer (REST API Development) — Moscow State Zoo
-*Group Project*
+## SELECTED COMMERCIAL ENGINEERING PROJECTS
 
-* Optimized database response time by 25% by designing a robust RESTful API and relational database schema logic.
-* Streamlined data synchronization between frontend and backend by implementing efficient endpoint structures.
-* Ensured high data integrity by developing complex backend logic for automated data handling.
+### B2B Lead Generation & Parsing Platform
+**Commercial | Sole developer**
 
-### Lead Generation & Parsing System
-*Personal Project*
+- Built Python-led data acquisition workflows for Telegram and Facebook; applied keyword/intent filters, deduplication and validation to surface relevant cold prospects.
+- Integrated Telethon, Playwright, external APIs and Google Sheets; added scheduling, configuration and logs to reduce manual prospecting effort.
+- **Outcome:** ~5-6x more cold leads sourced and ~2.5x more completed deals; the resulting opportunity volume exceeded client-side delivery capacity.
 
-* Increased lead acquisition speed by 80% by building an automated multi-source scraper for Facebook and Telegram.
-* Accomplished 100% data accuracy in lead filtering using Telethon, BeautifulSoup4, and Gspread API.
-* Reduced manual data entry time by integrating automated export functionality to Google Sheets.
+### Standalone B2B CRM
+**Commercial | Single client | Sole developer**
 
-### Smart Medication Tracker (Mobile Application)
-*Personal Project*
+- Implemented a custom CRM with company-specific workflows, application logic, data organization and interface design, owning development end to end.
 
-* Maintained a 98% user adherence rate through an app with automated push-notifications.
-* Optimized performance on Android using Chaquopy to integrate Python logic within the Kivy framework.
+### Batumi Lux Home - Real Estate Website
+**Commercial B2C | [batumiluxhome.ge](https://batumiluxhome.ge)**
 
----
+- Developed a multilingual real-estate catalog with filtering, property pages, inquiry handling and Telegram notifications; deployed using HTML, CSS, JavaScript and PHP.
 
-## EDUCATION
-**MIREA — Russian Technological University** *Software Engineer (Unfinished Higher Education)*
+### RentYLik - Item Rental Platform
+**Founder & sole developer | In development**
 
----
+- Independently defining product requirements and UX/UI while building application architecture, frontend and backend for a new rental platform.
 
-## CERTIFICATIONS
-* **Python Developer (Start-Middle)** | Skillfactory | 2024-2025
-* **DevOps Training Course** | Astondevs | 2025
+## PROFESSIONAL EXPERIENCE
+
+### Independent Software Developer
+**Commercial B2B / B2C projects**
+
+- Took individual products from business requirements through software implementation, integrations and deployment.
+
+### Python Instructor & Backend Developer
+**Algoritmika | Nov 2021 - Apr 2026**
+
+- Developed REST API endpoints, Python application logic, SQL schemas and automation scripts; delivered practical Python instruction.
+
+## EDUCATION & TRAINING
+
+**MIREA - Russian Technological University** | Software Engineering coursework (degree not completed)
+
+**Skillfactory** | Python Developer (2024-2025)
+
+**Astondevs** | DevOps Training (2025)
+
+**Languages:** Russian (native) | English (B2)
